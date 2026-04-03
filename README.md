@@ -3,7 +3,7 @@
 A simple React project that displays multiple job cards using reusable components, props, and the map() method.
 This project helped me practice component structure, data mapping, and clean UI building in React.
 
-## Live Demo -  https://wasim2934.github.io/React-Job-Cards-UI-Props-Map-Project-/
+## Live Demo -  https://wasim2934.github.io/React-Job-Cards-UI/
 
 ## Features
 - Reusable Card Component
